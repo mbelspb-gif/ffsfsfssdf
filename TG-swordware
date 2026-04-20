@@ -7,9 +7,6 @@
 
 vless://00000000-0000-0000-0000-000000000000@swordware.net:1?path=swordware&security=none&encryption=swordware&host=swordware&advancedfragment=c3dvcmR3YXJlLm5ldA==&type=httpupgrade#%D0%A2%D0%93+%D0%92%D0%9F%D0%9D%D0%90+%40SWORDWARE
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%E2%AC%87%EF%B8%8F%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%E2%AC%87%EF%B8%8F%40swordware
-vless://8cf1c214-3376-11f1-bf19-dcb6e8e27879@78.40.117.207:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.blocket.se&fp=randomized&pbk=8iZy6NJkKN0eaSSca-8veDYD0aGFybj8zMBde8lYCy8&sid=#🇸🇪 Швеция ⚡
-vless://8cf1c214-3376-11f1-bf19-dcb6e8e27879@37.49.227.173:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=randomized&pbk=T6zoUTIKw5BMEvb5-GPicYK0a1nuXnbOEdKytLblizY&sid=#🇳🇱 Нидерланды ⚡
-vless://8cf1c214-3376-11f1-bf19-dcb6e8e27879@172.86.93.20:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.kleinanzeigen.de&fp=randomized&pbk=XFv4Qy1Pfx_Wj_oLqIqfVpBiykT2zr35X0mwEOME2Wg&sid=#🇩🇪 Германия ⚡
-vless://8cf1c214-3376-11f1-bf19-dcb6e8e27879@92.118.126.205:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=cloudcdn-m9-15.cdn.yandex.net&fp=randomized&pbk=APwi9yR-ezZtFU6xj2a3SBoXvEoWOoiRuZSit0N9xWI&sid=#🇺🇸 США
+
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%E2%AC%86%EF%B8%8F%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%E2%AC%86%EF%B8%8F+%40swordware
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%D0%A2%D0%93+%D0%92%D0%9F%D0%9D%D0%90+%40SWORDWARE
